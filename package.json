@@ -1,6 +1,6 @@
 {
   "name": "until-destroy-playground",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "RxJS operator that unsubscribes when Angular component is destroyed",
   "license": "MIT",
   "scripts": {
